@@ -1,0 +1,41 @@
+form {
+    font-family: 'Kalam';
+    width: 325px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 10px;
+}
+
+form h1 {
+    padding-top: 10px;
+}
+
+.fname, .lname, .email {
+    padding: 5px;
+    font-size: 17px;
+}
+
+
+input[type=text] {
+    border: 1px solid lightgray;
+    font-size: 17px;
+    width: 150px;
+    padding: 5px;
+    font-family: 'Kalam';
+}
+
+.submit {
+    padding: 20px 20px 40px 20px;
+}
+
+input[type=submit]{
+    width: 275px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+body {
+margin: 150px;
+}
